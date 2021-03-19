@@ -79,7 +79,7 @@ similar to the real life version for some authenticity as well as learning a bit
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Johnny Ong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
